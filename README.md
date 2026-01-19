@@ -36,10 +36,10 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
     </td>
     <td align="center">
       <a href="[https://link-to-your-project2.com](https://github.com/AsemMostafa/Smartwatch-Data-Cleaning-SQL-PowerBI-Project-)" target="_blank">
-        <img width="200px;" alt="Project 2" src="https://github.com/user-attachments/assets/24a61f32-f457-43d9-a9b3-7e94a861057c" />
+        <img width="500px;" alt="Project 2" src="https://github.com/user-attachments/assets/24a61f32-f457-43d9-a9b3-7e94a861057c" />
       </a>
       <br>
-      <sub><b>Project 2</b></sub>
+      <sub><b>Smartwatch Health Data Cleaning Project</b></sub>
     </td>
     <td align="center">
       <a href="https://link-to-your-project3.com" target="_blank">
