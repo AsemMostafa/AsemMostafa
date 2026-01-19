@@ -16,4 +16,3 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
 </p>
 
 
-[website]: [https://fkcodes.com](https://www.linkedin.com/in/asem-mostafa/)
