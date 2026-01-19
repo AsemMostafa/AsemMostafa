@@ -19,7 +19,7 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
 
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
-  <img width="50" height="50" src="https://github.com/user-attachments/assets/83a11e0d-748f-4af1-bbb9-440b0a1feff5" />
+  <img width="80" height="80" src="https://github.com/user-attachments/assets/83a11e0d-748f-4af1-bbb9-440b0a1feff5" />
 
 </p>
 
