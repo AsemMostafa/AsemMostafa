@@ -20,6 +20,12 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/asem-mostafa/" target="_blank">
+    <img alt="LinkedIn Profile" 
+         title="Connect with me on LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 
