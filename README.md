@@ -12,8 +12,8 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 
   <!-- Oracle (NEW – clearer logo) -->
-  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle"/>
-
+ <img src="https://img.icons8.com/color/96/oracle-logo.png" height="55"/>
+ 
   <!-- Power BI (NEW – official-style icon) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 
