@@ -11,17 +11,14 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 
-  <!-- Oracle (NEW – clearer logo) -->
+  <!-- Oracle  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
 
-  <!-- Power BI (NEW – official-style icon) -->
+  <!-- Power BI  -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
-  
-<img width="80" height="90" alt="image" src="https://github.com/user-attachments/assets/1c518385-c01f-4c41-b954-870020f4fe84" />
-
 
 </p>
 
