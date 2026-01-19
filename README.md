@@ -19,6 +19,7 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
 
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
+  </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/asem-mostafa/" target="_blank">
