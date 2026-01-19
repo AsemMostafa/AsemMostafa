@@ -20,7 +20,7 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Talend_logo.svg" width="60" alt="Talend"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/talend.svg" width="60" alt="Talend"/>
 
 </p>
 
