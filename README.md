@@ -27,8 +27,8 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
          src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
----
 
+---
 ## My Projects
 
 <table>
