@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**AsemMostafa/AsemMostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Engineer** with experience building scalable data pipelines,
+data warehouses, and analytics platforms.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, SQL
+- **Data:** Spark, Pandas, dbt
+- **Orchestration:** Apache Airflow
+- **Databases:** PostgreSQL, BigQuery, Redshift
+- **Cloud:** AWS (S3, Glue, Lambda), GCP
+- **Streaming:** Kafka
+- **Infra:** Docker, Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I Work On
+- ETL/ELT pipelines
+- Data warehouses & lakehouses
+- Data quality & monitoring
+- Analytics-ready datasets
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/alexdataeng
+- Email: alex.data.eng@gmail.com
