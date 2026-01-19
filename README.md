@@ -8,17 +8,10 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
 ## 🛠️ Skills & Tools
 
 <p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-
-  <!-- Oracle (NEW – clearer logo) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="70" alt="Oracle"/>
-
-  <!-- Power BI (NEW – official-style icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
-
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://img.icons8.com/color/96/oracle-logo.png" height="55"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="55"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="55"/>
 </p>
 
 
