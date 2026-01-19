@@ -28,14 +28,14 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
 <table>
   <tr>
     <td align="center">
-      <a href="[https://link-to-your-project1.com](https://github.com/AsemMostafa/Sky-Curtains-PowerBI-Project)" target="_blank">
+      <a href=https://github.com/AsemMostafa/Sky-Curtains-PowerBI-Project target="_blank">
         <img width="500px;" alt="Project 1" src="https://github.com/user-attachments/assets/3d876d04-1381-4cf9-ab40-8eec5dfbe740" />
       </a>
       <br>
       <div style="text-align:center; font-size:16px; font-weight:bold;">SkyCurtains Sales & Performance Dashboard</div>
     </td>
     <td align="center">
-      <a href="[https://link-to-your-project2.com](https://github.com/AsemMostafa/Smartwatch-Data-Cleaning-SQL-PowerBI-Project-)" target="_blank">
+      <a href=https://github.com/AsemMostafa/Smartwatch-Data-Cleaning-SQL-PowerBI-Project target="_blank">
         <img width="500px;" alt="Project 2" src="https://github.com/user-attachments/assets/24a61f32-f457-43d9-a9b3-7e94a861057c" />
       </a>
       <br>
