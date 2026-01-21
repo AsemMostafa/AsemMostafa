@@ -14,16 +14,16 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
 
 <p align="left">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />
 
-  <!-- Oracle  -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
+  <!-- SQL  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL" title="SQL"/>
 
   <!-- Power BI  -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" title="Power BI" />
 
   <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" title="Excel" />
 </p>
 
 ## My Projects
