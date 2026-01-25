@@ -39,7 +39,7 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
     </td>
     <td align="center">
       <a href=https://github.com/AsemMostafa/African-Nation-Cup-Morocco-2025- target="_blank">
-        <img width="1197" height="673" alt="image" src="https://github.com/user-attachments/assets/83b17d4b-3a43-48bd-ba7d-d96677267e3c" />
+        <img width="500px;" alt="image" src="https://github.com/user-attachments/assets/83b17d4b-3a43-48bd-ba7d-d96677267e3c" />
       </a>
       <br>
       <div style="text-align:center; font-size:16px; font-weight:bold;">Smartwatch Health Data Cleaning Project</div>
