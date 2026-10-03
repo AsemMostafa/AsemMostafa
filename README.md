@@ -45,8 +45,9 @@ BI Analyst with a deep and endless passion for data. Since my college days, I ha
       <div style="text-align:center; font-size:16px; font-weight:bold;">African Nation Cup (Morocco 2025)</div>
     </td>
     <td align="center">
-      <a href=https://github.com/AsemMostafa/African-Nation-Cup-Morocco-2025- target="_blank">
-        <img width="500px;" alt="image" src="[https://github.com/user-attachments/assets/83b17d4b-3a43-48bd-ba7d-d96677267e3c](https://github.com/AsemMostafa/HR-Attrition-Case-Study)" />
+      <a href=[https://github.com/AsemMostafa/African-Nation-Cup-Morocco-2025-](https://github.com/AsemMostafa/HR-Attrition-Case-Study) target="_blank">
+        <img width="500px;" alt="image" src="<img width="1188" height="672" alt="image" src="https://github.com/user-attachments/assets/918fee3b-f955-4d54-97fb-90f91206e880" />
+" />
       </a>
       <br>
       <div style="text-align:center; font-size:16px; font-weight:bold;">HR Attrition Dashboard</div>
